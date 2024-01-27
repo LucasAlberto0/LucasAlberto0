@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2EF765&random=false&width=435&lines=Hi!+I'm+Lucas+Alberto+%F0%9F%A4%99;Web+Developer;From+Santos-Sp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2807F7&random=false&width=435&lines=Hi!+I'm+Lucas+Alberto+%F0%9F%A4%99;Web+Developer;From+Santos-Sp)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalberto0/)
 
 ![LucasAlberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAlberto0&show_icons=true&theme=dark)
 
- <h3 style="color: #2EF765FF">I am familiar with and currently studying the following technologies:</h3>
+ <h3>I am familiar with and currently studying the following technologies:</h3>
  
 
 <div style="display: inline_block"><br/>

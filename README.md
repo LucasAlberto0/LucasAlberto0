@@ -6,9 +6,6 @@
 
  <h3 >I am familiar with and currently studying the following technologies:</h3>
  <style>
-    .main{
-        background: black;
-    }
     h3{
         color: #2EF765FF;
     }
@@ -26,5 +23,6 @@
         <img align="center" alt="Angular" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
 
 

@@ -4,12 +4,8 @@
 
 ![LucasAlberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAlberto0&show_icons=true&theme=dark)
 
- <h3 >I am familiar with and currently studying the following technologies:</h3>
- <style>
-    h3{
-        color: #2EF765FF;
-    }
- </style>
+ <h3 style="color: #2EF765FF">I am familiar with and currently studying the following technologies:</h3>
+ 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -21,8 +17,5 @@
         <img align="center" alt="Angular" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
         <img align="center" alt="Angular" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img align="center" alt="Angular" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
 </div>
-
-
 

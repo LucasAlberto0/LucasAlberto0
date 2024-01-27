@@ -1,4 +1,3 @@
-<div class="main">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2EF765&random=false&width=435&lines=Hi!+I'm+Lucas+Alberto+%F0%9F%A4%99;Web+Developer;From+Santos-Sp)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalberto0/)
@@ -6,7 +5,14 @@
 ![LucasAlberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAlberto0&show_icons=true&theme=dark)
 
  <h3 >I am familiar with and currently studying the following technologies:</h3>
- 
+ <style>
+    .main{
+        background: black;
+    }
+    h3{
+        color: #2EF765FF;
+    }
+ </style>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -20,13 +26,5 @@
         <img align="center" alt="Angular" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
-</div>
 
-<style>
-    .main{
-        background: black;
-    }
-    h3{
-        color: #2EF765FF;
-    }
- </style>
+

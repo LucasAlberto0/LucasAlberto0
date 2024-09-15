@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalberto0/)
 
-![LucasAlberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAlberto0&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlberto0&layout=compact&theme=react)
 
  <h3>I am familiar with and currently studying the following technologies:</h3>
 <div style="display: inline_block"><br/>

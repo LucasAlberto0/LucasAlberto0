@@ -1,8 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=29F7E4&random=false&width=435&lines=Hi!+I'm+Lucas+Alberto+%F0%9F%A4%99;Front-end+Developer;From+Santos-Sp)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalberto0/)
-[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasalberto.site/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasalberto4321@gmail.com)
+<a href="https://www.linkedin.com/in/lucasalberto0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://lucasalberto.site/" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="mailto:lucasalberto4321@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</br>
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlberto0&layout=compact&theme=react)
 

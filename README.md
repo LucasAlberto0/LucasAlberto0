@@ -14,7 +14,7 @@
 </br>
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlberto0&layout=compact&theme=react)
+
 
  <h3>I am familiar with and currently studying the following technologies:</h3>
 <div style="display: inline_block"><br/>

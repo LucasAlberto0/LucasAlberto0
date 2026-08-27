@@ -14,7 +14,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlberto0&layout=donut&theme=dark)](https://github.com/LucasAlberto0/github-readme-stats)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasAlberto0&layout=compact&langs_count=8&theme=dark)](https://github.com/LucasAlberto0)
 
  <h3>I am familiar with and currently studying the following technologies:</h3>
 <div style="display: inline_block"><br/>
